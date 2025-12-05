@@ -25,4 +25,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: your-dockerhub-username/Farag-Sherif-2023040365:latest 
+        tags: faragsherif/ farag-sherif-2023040365:latest
